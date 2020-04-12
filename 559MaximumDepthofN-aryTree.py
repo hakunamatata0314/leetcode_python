@@ -1,6 +1,4 @@
 '''
-    Jiayao Li
-    CS 5001
 (Leetcode 559)  Maximum Depth of N-ary Tree
 
 Given a n-ary tree, find its maximum depth.
